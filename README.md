@@ -1,5 +1,4 @@
 # Connections Solver
-Python notebook that helps you solve the NYT Connections game using Word2Vec embeddings and k-means clustering algorithms.
 
 *Connections Solver* is a Python Jupyter Notebook that provides a second brain to help you solve the NYT Connections game on particularly hard days. It uses Word2Vec embeddings and k-means algorithms to predict likely Connections solutions using word-pairing similarity scores.
 
